@@ -1,6 +1,11 @@
 # Payex Module For Expresso Store
-A Payex payment gateway module for expresso store( Omnipay ) Expression engine 2
+A Payex payment gateway extension for expresso store( Omnipay ) Expression engine 2
 
-# Installation
-1:- Download and keep directory inside /system/expressionengine/third_party
-2:- Enable it from backend
+## Installation
+* Download and keep directory inside /system/expressionengine/third_party
+* Enable it from backend
+* Go to Store > Settings > Payment Method and enable payex
+* After enabling it put your Payex account number and Encryption key there
+* And you are ready to go
+
+## Backend Screen
