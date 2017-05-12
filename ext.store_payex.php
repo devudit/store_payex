@@ -4,7 +4,7 @@ class Store_payex_ext
 {
     public $name = 'Payex Payment Method';
     public $version = '1.0.0';
-    public $description = 'Example custom payment gateway for Expresso Store';
+    public $description = 'Payex payment gateway for Expresso Store';
     public $settings_exist = 'n';
     public $docs_url = 'https://exp-resso.com/docs';
 
