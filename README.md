@@ -9,3 +9,4 @@ A Payex payment gateway extension for expresso store( Omnipay ) Expression engin
 * And you are ready to go
 
 ## Backend Screen
+![alt text](https://raw.githubusercontent.com/emerico/store_payex/master/screenshot.png)
