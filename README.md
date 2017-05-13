@@ -1,5 +1,5 @@
 # Payex Module For Expresso Store
-A Payex payment gateway extension for expresso store( Omnipay ) Expression engine 2
+A Payex payment gateway extension for expresso store( Omnipay ) Expression engine 
 
 ## Installation
 * Download and keep directory inside /system/expressionengine/third_party
